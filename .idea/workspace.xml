@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="586916ca-d94a-46ea-a3d2-5f5387adc8de" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/scripts/engine/steps/Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/scripts/engine/steps/Steps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test/scripts/features/test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/scripts/features/test.feature" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/test/target/" />
     <ignored path="$PROJECT_DIR$/test/test/target/" />
@@ -42,17 +42,17 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="feature" value="137" />
-          <entry key="java" value="738" />
-          <entry key="txt" value="55" />
+          <entry key="feature" value="143" />
+          <entry key="java" value="743" />
+          <entry key="txt" value="61" />
           <entry key="xml" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Cucumber" value="137" />
-          <entry key="JAVA" value="738" />
-          <entry key="PLAIN_TEXT" value="55" />
+          <entry key="Cucumber" value="143" />
+          <entry key="JAVA" value="743" />
+          <entry key="PLAIN_TEXT" value="61" />
           <entry key="XML" value="23" />
         </counts>
       </usages-collector>
@@ -90,16 +90,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/test/scripts/features/test.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            <state relative-caret-position="136">
+              <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/test/scripts/engine/page/LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="392">
@@ -116,8 +116,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/test/scripts/engine/steps/Steps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+            <state relative-caret-position="429">
+              <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -147,12 +147,12 @@
         <option value="$PROJECT_DIR$/test/test/script/steps/Steps.java" />
         <option value="$PROJECT_DIR$/test/test/script/steps/steps/Steps.java" />
         <option value="$PROJECT_DIR$/test/test/scripts/steps/steps/Steps.java" />
-        <option value="$PROJECT_DIR$/test/test/scripts/features/test.feature" />
         <option value="$PROJECT_DIR$/test/test/scripts/engine/steps/Driver.java" />
         <option value="$PROJECT_DIR$/test/pom.xml" />
         <option value="$PROJECT_DIR$/test/test/pom.xml" />
         <option value="$PROJECT_DIR$/test/test/scripts/engine/page/LoginPage.java" />
         <option value="$PROJECT_DIR$/test/test/scripts/engine/steps/Steps.java" />
+        <option value="$PROJECT_DIR$/test/test/scripts/features/test.feature" />
       </list>
     </option>
   </component>
@@ -188,7 +188,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542963222171" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542963234920" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../sqs-bdd" />
   </component>
@@ -370,13 +370,24 @@
       <option name="project" value="LOCAL" />
       <updated>1542963005927</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Steps  changes">
+      <created>1542963246309</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1542963246309</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Steps  changes">
+      <created>1542963374084</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1542963374084</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Scenario__Test_Scenario_(1) - 2018.11.23 at 13h 06m 36s.xml">
-      <configuration name="Scenario: Test Scenario (1)" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
     <history-entry file="Scenario__Test_Scenario_(1) - 2018.11.23 at 13h 07m 11s.xml">
       <configuration name="Scenario: Test Scenario (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
@@ -404,6 +415,9 @@
     <history-entry file="Scenario__Test_Scenario_(1) - 2018.11.23 at 14h 21m 17s.xml">
       <configuration name="Scenario: Test Scenario (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
+    <history-entry file="Scenario__Test_Scenario_(1) - 2018.11.23 at 14h 24m 59s.xml">
+      <configuration name="Scenario: Test Scenario (1)" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -426,7 +440,7 @@
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -447,7 +461,8 @@
     <MESSAGE value="local changes" />
     <MESSAGE value="local changes - new" />
     <MESSAGE value="script changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="script changes" />
+    <MESSAGE value="Steps  changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Steps  changes" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/test.java">
@@ -530,23 +545,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/test/scripts/features/test.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test/scripts/engine/steps/Steps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/test/scripts/engine/page/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
@@ -556,6 +554,23 @@
             <element signature="e#180#181#0" expanded="true" />
             <element signature="e#214#215#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test/scripts/engine/steps/Steps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test/scripts/features/test.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
         </state>
       </provider>
     </entry>

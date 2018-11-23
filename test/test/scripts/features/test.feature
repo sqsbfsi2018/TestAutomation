@@ -1,5 +1,6 @@
 Feature: Test Feature
 
+  @test
   Scenario: Test Scenario
     Given I have opened the portal
     When I login page with
