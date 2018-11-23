@@ -1,4 +1,4 @@
 Feature: Test Feature
 
   Scenario: Test Scenario
-    Given open portal
+    Given I have opened the portal

@@ -11,11 +11,9 @@ public class Steps {
         System.out.println("Hi\n");
     }
 
-    @Given("^open portal$")
-    public void open_portal() throws Throwable {
+    @Given("^I have opened the portal$")
+    public void iHaveOpenedThePortal() throws Throwable {
         System.out.println("Hi!");
-        System.out.println("Hi!");
-
 
         driver.launch();
     }
