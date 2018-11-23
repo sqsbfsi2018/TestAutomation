@@ -14,7 +14,7 @@ public class Steps {
 
     @Given("^I have opened the portal$")
     public void iHaveOpenedThePortal() throws Throwable {
-        System.out.println("Hi!");
+        System.out.println("Hi!\n\n");
     }
 
     @When("^I login page with$")
