@@ -14,7 +14,7 @@ public class Steps {
     @Given("^open portal$")
     public void open_portal() throws Throwable {
         System.out.println("Hi!");
-        System.out.println("Hi!");
+
 
         driver.launch();
     }
