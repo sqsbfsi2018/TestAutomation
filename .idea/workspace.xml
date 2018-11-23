@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="586916ca-d94a-46ea-a3d2-5f5387adc8de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test/scripts/engine/page/LoginPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/Test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/scripts/features/test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/scripts/features/test.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/scripts/steps/steps/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/scripts/engine/steps/Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/scripts/steps/steps/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/scripts/engine/steps/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/scripts/steps/steps/Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/scripts/engine/steps/Steps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test/scripts/engine/steps/Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/scripts/engine/steps/Steps.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/test/target/" />
     <ignored path="$PROJECT_DIR$/test/test/target/" />
@@ -52,7 +43,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="feature" value="137" />
-          <entry key="java" value="682" />
+          <entry key="java" value="738" />
           <entry key="txt" value="55" />
           <entry key="xml" value="23" />
         </counts>
@@ -60,7 +51,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Cucumber" value="137" />
-          <entry key="JAVA" value="682" />
+          <entry key="JAVA" value="738" />
           <entry key="PLAIN_TEXT" value="55" />
           <entry key="XML" value="23" />
         </counts>
@@ -99,20 +90,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/test/scripts/features/test.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            <state relative-caret-position="51">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/test/scripts/engine/page/LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="392">
+              <caret line="25" column="55" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#180#181#0" expanded="true" />
@@ -125,20 +116,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/test/scripts/engine/steps/Steps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+            <state relative-caret-position="460">
+              <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.4.0/selenium-chrome-driver-3.4.0.jar!/org/openqa/selenium/chrome/ChromeDriverService.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -206,7 +188,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542962986686" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542963222171" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../sqs-bdd" />
   </component>
@@ -381,13 +363,17 @@
       <option name="project" value="LOCAL" />
       <updated>1542956978733</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="script changes">
+      <created>1542963005927</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1542963005927</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Scenario__Test_Scenario_(1) - 2018.11.23 at 13h 05m 26s.xml">
-      <configuration name="Scenario: Test Scenario (1)" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
     <history-entry file="Scenario__Test_Scenario_(1) - 2018.11.23 at 13h 06m 36s.xml">
       <configuration name="Scenario: Test Scenario (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
@@ -413,6 +399,9 @@
       <configuration name="Scenario: Test Scenario (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
     <history-entry file="Scenario__Test_Scenario_(1) - 2018.11.23 at 14h 07m 03s.xml">
+      <configuration name="Scenario: Test Scenario (1)" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Test_Scenario_(1) - 2018.11.23 at 14h 21m 17s.xml">
       <configuration name="Scenario: Test Scenario (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
   </component>
@@ -541,32 +530,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/test/scripts/engine/page/LoginPage.java">
+    <entry file="file://$PROJECT_DIR$/test/test/scripts/features/test.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/test/scripts/engine/steps/Steps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+        <state relative-caret-position="460">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/test/scripts/features/test.feature">
+    <entry file="file://$PROJECT_DIR$/test/test/scripts/engine/page/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        <state relative-caret-position="392">
+          <caret line="25" column="55" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
