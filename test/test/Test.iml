@@ -4,7 +4,7 @@
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/scripts/steps" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scripts/engine" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/script/common" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/scripts/features" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/script" isTestSource="true" />
@@ -34,5 +34,6 @@
     <orderEntry type="library" name="Maven: info.cukes:cucumber-java:1.2.4" level="project" />
     <orderEntry type="library" name="Maven: info.cukes:cucumber-picocontainer:1.2.4" level="project" />
     <orderEntry type="library" name="Maven: org.picocontainer:picocontainer:2.15" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:1.3.2" level="project" />
   </component>
 </module>
