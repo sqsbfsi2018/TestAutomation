@@ -12,6 +12,7 @@ public class Driver {
 
         driver.manage().window().maximize();
         driver.get("http://www.mocktrading.com/");
+
         return new LoginPage(driver);
     }
 }
